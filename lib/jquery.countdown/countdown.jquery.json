@@ -1,0 +1,30 @@
+{
+    "name": "countdown",
+    "title": "jQuery Countdown",
+    "description": "jQuery plugin for display a countdown clock on your page.",
+    "keywords": [
+        "countdown",
+        "coupons",
+        "clock",
+        "datetime",
+        "date"
+    ],
+    "version": "1.0.2",
+    "author": {
+        "name": "Edson Hilios",
+        "url": "http://edson.hilios.com.br"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/hilios/jQuery.countdown/blob/1.0.0/LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/hilios/jQuery.countdown/issues",
+    "homepage": "https://github.com/hilios/jQuery.countdown",
+    "docs": "https://github.com/hilios/jQuery.countdown",
+    "download": "https://github.com/hilios/jQuery.countdown/archive/1.0.2.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
